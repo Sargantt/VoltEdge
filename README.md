@@ -1,6 +1,6 @@
 VoltEdge
 
-![VoltEdge Logo](https://your-logo-url.com)
+![VoltEdge Logo](https://ibb.co/BKSQtX9c)
 
 🚀 Overview
 VoltEdge is a productivity tool designed to enhance the online learning experience on Edgenuity. It helps students streamline their coursework by automating certain tasks while ensuring a balanced approach to learning efficiency.
